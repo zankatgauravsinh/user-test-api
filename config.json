@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb://localhost/moontech-login-api",
+    "secret": "B12C3631D9C8095D9AD70A25CDFBD58F3ED79D0F6D8C4F5B374FCC08BB6D6039"
+}
